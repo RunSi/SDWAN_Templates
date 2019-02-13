@@ -16,7 +16,7 @@ The script create_template.py, is a very simple script to demonstrate the creati
 
 ### WARNING - deletetemplates.py
 
-The script deletetemplates.py will delete all custom Feature Templates on vManage.  Use with **Extreme**, and do **NOT** use in production environment. 
+The script deletetemplates.py will delete all custom Feature Templates on vManage.  Use with **Extreme** caution, and do **NOT** use in production environment. 
 
 - ### Payloads available to date
 
@@ -40,7 +40,7 @@ The script deletetemplates.py will delete all custom Feature Templates on vManag
 
 ## Usage
 
-Two use the templates it is a two step process
+Use of the templates is a two step process
 
 **Step One**
 
