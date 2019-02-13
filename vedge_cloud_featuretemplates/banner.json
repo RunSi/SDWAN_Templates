@@ -1,0 +1,24 @@
+{
+   "configType" : "xml",
+   "deviceType" : [
+      "vedge-cloud"
+   ],
+   "templateDefinition" : {
+      "login" : {
+         "vipValue" : "",
+         "vipObjectType" : "object",
+         "vipType" : "ignore",
+         "vipVariableName" : "banner_login"
+      },
+      "motd" : {
+         "vipObjectType" : "object",
+         "vipType" : "ignore",
+         "vipVariableName" : "banner_motd"
+      }
+   },
+   "templateMinVersion" : "15.0.0",
+   "templateDescription" : "API_banner",
+   "templateName" : "API_banner",
+   "factoryDefault" : false,
+   "templateType" : "banner"
+}
