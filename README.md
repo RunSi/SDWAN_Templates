@@ -55,7 +55,7 @@ Run the python script with the desired template .json file, e.g.
 python create_template.py -i 172.16.1.141 -j bfd.json
 ```
 
-Alternatively, by commenting out the code at the end of the file [create_templates.py](./create_templates.py), you can load all templates within the directory - [vedge_cloud_featuretemplates](./vedge_cloud_featuretemplates) to vManage.
+Alternatively, by commenting out the code at the end of the file [create_template.py](./create_template.py), you can load all templates within the directory - [vedge_cloud_featuretemplates](./vedge_cloud_featuretemplates) to vManage.
 
 ## Installation
 
